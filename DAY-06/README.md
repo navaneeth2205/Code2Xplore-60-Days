@@ -124,7 +124,7 @@ Sample Test Case
 
 **Input:**
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   150, 200, 250, 500, 2000, -50, 985, 50, 100, 120   `
+  150, 200, 250, 500, 2000, -50, 985, 50, 100, 120   `
 
 **Behavior:**
 
