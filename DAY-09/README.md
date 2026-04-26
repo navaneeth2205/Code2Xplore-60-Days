@@ -1,12 +1,9 @@
+📘 **Smart Inventory Mutation Tracker**
+=======================================
+
 **Inventory Copy Behavior and Data Mutation Analysis System**
 
-Department of Computer Science and Engineering
-
-SRM University–AP
-
-Course Code: CSE205 – Hands on Python
-
-Faculty: Dr. Yasir Afaq
+Department of Computer Science and EngineeringSRM University–APCourse Code: CSE205 – Hands on PythonFaculty: Dr. Yasir Afaq
 
 **Overview**
 ------------
